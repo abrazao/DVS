@@ -43,6 +43,7 @@ public class ContaBancaria {
 		System.out.printf("Saldo da Conta: %.2f", contaBancaria.saldoContaCorrente());
 		System.out.println();
 		
+		sc.close();
 		
 	
 	}
